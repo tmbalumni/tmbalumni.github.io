@@ -1,0 +1,13 @@
+---
+published: true
+title: Welcome!
+layout: post
+permalink: welcome
+---
+We're just getting started. For now, feel free to check us out on social media!
+
+ - [Facebook](http://facebook.com/TMBAlumniAssociation)
+ - [@TMBAlumni](http://twitter.com/TMBAlumni) on Twitter
+ - [@TMBAlumni](http://instagram.com/TMBAlumni) on Instagram
+ - [@TMBAlumni](http://tmbalumni.tumblr.com) on Tumblr
+ - [YouTube](https://www.youtube.com/channel/UCrr4xvOA9oSHtyC_ZKqIAvA)
